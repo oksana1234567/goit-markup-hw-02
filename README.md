@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-Домашняя работа 2
+# home-assignment-2
+home-assignment-2

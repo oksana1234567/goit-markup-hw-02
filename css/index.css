@@ -44,8 +44,22 @@ li {
   letter-spacing: 0.02em;
 }
 
-.main-navigation:hover,
-.main-navigation:focus {
+.nav1:hover,
+.nav1:focus {
+  color: #2196f3;
+}
+
+.nav2:hover,
+.nav2:focus {
+  color: #2196f3;
+}
+
+.nav3:hover,
+.nav3:focus {
+  color: #2196f3;
+}
+
+.link-current:hover {
   color: #2196f3;
 }
 
@@ -135,8 +149,7 @@ li {
 
 .work-head {
   color: var(--less-white-color);
-  background-color: #a1c8e9;
-  /* на макете нет заливки, только что бы было видно текст белым цветом */
+  background-color: rgba(47, 48, 58, 0.8);
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
@@ -151,6 +164,12 @@ li {
 }
 
 .developed {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 2;
+  letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.4);
 }
 
@@ -175,7 +194,7 @@ li {
 }
 
 .logo2 {
-  color: var(--primary-text-color);
+  color: var(--less-white-color);
   font-family: Raleway;
   font-style: normal;
   font-weight: bold;

@@ -106,9 +106,6 @@ li {
   text-align: center;
   letter-spacing: 0.06em;
 }
-.svg-back {
-  background-color: var(--background-grey-color);
-}
 
 /* .svg-back:hover {
   color: #2196f3;
